@@ -7,7 +7,7 @@ Tecnologias Utilizadas
 - Back-end: Node.js
 - Front-end: ReactJS
 - Mobile: React Native
-- Banco de Dados: PostgreSQL + Mongo + redis
+- Banco de Dados: PostgreSQL + MongoDB + redis
 
 ![Web](https://i.imgur.com/LOinM5P.png)
 
